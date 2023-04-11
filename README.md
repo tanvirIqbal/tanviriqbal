@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanvir Iqbal</h1>
-<h3 align="center">Experienced tech professional with keen eye for details and B.Sc. in Computer Science and Engineering, seeking for a Senior Software Developer position in a fast-growing organization to utilize expertise in software development and testing, as well as deployment and support using agile development methodologies. Coming with well-honed skills in computer science in addition to excellent communication skills. Offering outstanding ability to work with various programming languages and frameworks, including C#.Net, ASP.Net, .Net 5, Angular, TypeScript.</h3>
+<h6 align="center">Experienced tech professional with keen eye for details and B.Sc. in Computer Science and Engineering, seeking for a Senior Software Developer position in a fast-growing organization to utilize expertise in software development and testing, as well as deployment and support using agile development methodologies. Coming with well-honed skills in computer science in addition to excellent communication skills. Offering outstanding ability to work with various programming languages and frameworks, including C#.Net, ASP.Net, .Net 5, Angular, TypeScript.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviriqbal&label=Profile%20views&color=0e75b6&style=flat" alt="tanviriqbal" /> </p>
 
