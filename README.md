@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **iqbaltanvir@outlook.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!Ar7bBjoqvDN5hZJVCleT1lKe54moXg?e=aRlgPa](https://1drv.ms/b/s!Ar7bBjoqvDN5hZJVCleT1lKe54moXg?e=aRlgPa)
+- 📄 Know about my experiences from my [CV](https://1drv.ms/b/s!Ar7bBjoqvDN5haZXuka0P4WNqfy7fQ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
